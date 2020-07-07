@@ -1,0 +1,162 @@
+body  {
+    background-image: url("../images/wire.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+.evm-container{
+    position: relative;
+    float: right;
+    color: black;
+  }
+.vvpat-container{
+    position: relative;
+    float: left;
+    margin-top: 5%;
+}
+.evm-button1 button{
+    top: 88px;
+}
+.evm-button1 button:hover{
+    top: 88px;
+}
+.evm-button2 button{
+    top: 120px;
+}
+.evm-button2 button:hover{
+    top: 120px;
+}
+.evm-button3 button{
+    top: 152px;
+}
+.evm-button3 button:hover{
+    top: 152px;
+}
+.evm-button4 button{
+    top: 184px;
+}
+.evm-button4 button:hover{
+    top: 184px;
+}
+.evm-button5 button{
+    top: 216px;
+}
+.evm-button5 button:hover{
+    top: 216px;
+}
+.evm-button6 button{
+    top: 248px;
+}
+.evm-button6 button:hover{
+    top: 248px;
+}
+.evm-button7 button{
+    top: 280px;
+}
+.evm-button7 button:hover{
+    top: 280px;
+}
+.evm-button8 button{
+    top: 312px;
+}
+.evm-button8 button:hover{
+    top: 312px;
+}
+.evm-button9 button{
+    top:344px;
+}
+.evm-button9 button:hover{
+    top: 344px;
+}
+.evm-button10 button{
+    top: 376px;
+}
+.evm-button10 button:hover{
+    top: 376px;
+}
+.evm-button11 button{
+    top: 408px;
+}
+.evm-button11 button:hover{
+    top: 408px;
+}
+.evm-button12 button{
+    top: 440px;
+}
+.evm-button12 button:hover{
+    top: 440px;
+}
+.evm-button13 button{
+    top: 472px;
+}
+.evm-button13 button:hover{
+    top: 472px;
+}
+.evm-button1 button ,.evm-button2 button ,.evm-button3 button ,.evm-button4 button ,.evm-button5 button ,.evm-button6 button ,.evm-button7 button ,.evm-button8 button ,.evm-button9 button ,.evm-button10 button ,.evm-button11 button ,.evm-button12 button ,.evm-button13 button{
+    position: absolute;
+    background-color: #286a91;
+    display: inline-block;
+    right: 76px;
+    border: none;
+    padding: 2px 11px;
+    border-radius: 10px;
+    transition: 0.3s;
+    color: #286a91;
+  }    
+.evm-button1 button:hover ,.evm-button2 button:hover ,.evm-button3 button:hover ,.evm-button4 button:hover ,.evm-button5 button:hover ,.evm-button6 button:hover ,.evm-button7 button:hover ,.evm-button8 button:hover ,.evm-button9 button:hover ,.evm-button10 button:hover ,.evm-button11 button:hover ,.evm-button12 button:hover ,.evm-button13 button:hover{
+    position: absolute;
+    background-color: #004974;
+    display: inline-block;
+    right: 76px; 
+    border: none;
+    padding: 2px 11px;
+    cursor: pointer;
+    transition: 0.3s;
+    color: #004974;
+  } 
+.evm-led1{
+    top: 91px;
+}
+.evm-led2{
+    top: 122px;
+}
+.evm-led3{
+    top: 154px;
+}
+.evm-led4{
+    top: 186px;
+}
+.evm-led5{
+    top: 218px;
+}
+.evm-led6{
+    top: 250px;
+}
+.evm-led7{
+    top: 282px;
+}
+.evm-led8{
+    top: 314px;
+}
+.evm-led9{
+    top: 346px;
+}
+.evm-led10{
+    top: 378px;
+}
+.evm-led11{
+    top: 410px;
+}
+.evm-led12{
+    top: 442px;
+}
+.evm-led13{
+    top: 474px;
+}
+.evm-led1, .evm-led2, .evm-led3, .evm-led4, .evm-led5, .evm-led6, .evm-led7, .evm-led8, .evm-led9, .evm-led10, .evm-led11, .evm-led12, .evm-led13{
+    position: absolute;
+    display: none;
+    right: 133px;
+    border: none;
+    padding: 0px 7px;
+    border-radius: 10px;
+}
